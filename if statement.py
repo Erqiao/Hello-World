@@ -3,6 +3,8 @@ b = 3
 
 if a < b:
     print ' b is greater than a.'
- else:
-    print ' a is greater or equal to b.'
+elif a > b:
+    print ' a is greater than b.'
+else: 
+    print 'a equals to b.'
   
