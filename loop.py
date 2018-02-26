@@ -14,5 +14,7 @@ while True:
         continue
     total1 += given_list[i]
     i += 1
+    if i > len(given_list):
+        break
 print total1
     
