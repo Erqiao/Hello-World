@@ -1,4 +1,4 @@
-given_list = [4, 3, 2, -1, 5, 6,-3,-9, -4]
+given_list = [4, 3, 2, -1, -4, 8, 5, 6,-3,-9, -4]
 total = 0
 
 for element in given_list:
