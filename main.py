@@ -9,6 +9,7 @@ def main():
         userGuess = input("Your Guess: ")
         if userGuess == randomNumber:
             print "You got it!"
+            found = True
         else:
             print "That's not it."
             
