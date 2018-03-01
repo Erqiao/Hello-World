@@ -11,5 +11,5 @@ while fiblist[i] < 4000000:
     fiblist.append(fiblist[i] + fiblist[i+1])
     i += 1
     
-print a, evenfiblist
+print a, '\n\,evenfiblist
 
