@@ -1,3 +1,7 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+# filename: even fib.py
+
 fiblist = [1,2]
 evenfiblist = []
 a = 0
